@@ -1,0 +1,1 @@
+# fastapi_psql_base
